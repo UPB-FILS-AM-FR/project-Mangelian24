@@ -97,14 +97,23 @@ Finished software implementation of the project, added software implementation a
 ## Reference links
 
 [Tutorial 1](https://www.youtube.com/watch?v=wdgULBpRoXk&t=1s&ab_channel=BenEater)
+
 [Tutorial 2] (https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/#4)
+
 [Tutorial 3] (https://forums.raspberrypi.com/viewtopic.php?t=196514)
+
 [Tutorial 4] (https://docs.sunfounder.com/projects/kepler-kit/en/latest/pyproject/py_fruit_piano.html)
+
 [Tutorial 5] (https://www.youtube.com/watch?v=sqQzIN7G6Oc&ab_channel=Sinsay)
+
 [Tutorial 6] (https://projecthub.arduino.cc/abhilashpatel121/diy-arduino-based-continuous-touch-piano-b0b8e3)
+
 [Tutorial 7] (https://www.hackster.io/gatoninja236/capacitive-touch-sensing-grid-f98144)
+
 [Tutorial 8] (https://blog.arduino.cc/2022/04/05/the-arduipiano-is-an-arduino-powered-floor-piano-that-lets-you-play-music-with-your-feet/?queryID=undefined)
+
 [Tutorial 9] (https://www.instructables.com/MIDI-Bookmark/)
+
 [Tutorial 10] (https://www.youtube.com/watch?v=Z2v-kq9tvgg&ab_channel=7DAYS)
 
 

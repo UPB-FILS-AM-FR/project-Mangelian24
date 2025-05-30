@@ -46,8 +46,6 @@ The aim of the project is to explore microprocessor architecture concepts such a
 | Jumper Wires (Female-Male)                   | Connecting components (ESP32 to breadboard points)       | 1 set    | ~7-10            | ~7-10             |  [OptimusDigital M-M]                                                                                      |                                                                                             |
 | DIY Touch Pads                               | Copper tape or other conductive material                 | ~1m      | ~5-10            | ~5-10             | ( cardboard )                                                                                                                |
 | USB Cable (Micro-USB)                        | Programming and power supply for ESP32                   | 1        | (owned)  | 0                 |                                                                                                                                           |
-| **SUBTOTAL ESTIMAT (configurație cu 2 breadboard-uri: 400pt + 170pt)** |                                                          |          |                  | **~80 - 96**      | *(ESP32, MPR121, LM386, Buzzer Pasiv, 2x Buzzer Activ, BB400, BB170, Fire M-M, Fire F-M, Condensator, DIY Pads)* |
-| **SUBTOTAL ESTIMAT (configurație cu 1 breadboard mare: 750pt)**     |                                                          |          |                  | **~83 - 99**      | *(ESP32, MPR121, LM386, Buzzer Pasiv, 2x Buzzer Activ, BB750, Fire M-M, Fire F-M, Condensator, DIY Pads)*         |
 
 ## Hardware Used
 
